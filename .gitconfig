@@ -1,0 +1,7 @@
+[user]
+	name = YazanHussnain
+	email = yazanhussnain@gmail.com
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/user73/.gitignore_global
